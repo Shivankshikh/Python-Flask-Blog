@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_uri": "mysql://root:admin@localhost/flask",
+    "prod_uri": "mysql://root:admin@localhost/flask",
+    "fb_url": "https://facebook.com/shivankshi",
+    "tw_url": "https://twitter.com/shivankshi",
+    "gh_url": "https://github.com/shivankshi",
+    "author": "Unstoppable Me",
+    "no_of_post": 2,
+    "admin_user": "admin",
+    "admin_pass": "admin",
+    "uploader_path": "./static/assets/pdf"
+
+  }
+}
